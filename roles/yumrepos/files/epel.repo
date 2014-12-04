@@ -1,0 +1,7 @@
+[epel]
+name=Extra Packages for Enterprise Linux 
+baseurl=http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-2.noarch.rpm
+failovermethod=priority
+enabled=1
+protect=0
+gpgcheck=0
